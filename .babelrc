@@ -1,0 +1,18 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "last 2 versions"
+          ]
+        },
+        "debug": true
+      }
+    ],
+    "stage-1",
+    "babel-preset-react"
+  ],
+  "plugins": ["transform-runtime", "transform-decorators-legacy", "transform-class-properties"]
+}
