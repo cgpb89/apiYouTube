@@ -1,5 +1,5 @@
 # apiYouTube
-1. First exec npm install to add the package.json modules
+1. First exec npm install to add the package.json modules.
   1.1 If something goes wrong, you may need to insall some global dependencies, ex: babel-cli.
 2. To run the app you just type in your cmd: npm run start. It should tell you the port where the app is running. Then, go to your browser
 and type http://localhost:<PORT>. In my case PORT=8080
